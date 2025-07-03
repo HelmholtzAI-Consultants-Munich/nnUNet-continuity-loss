@@ -7,6 +7,8 @@ This is a fork of the nnU-Net repository with changes implementing loss function
 
 Refer to training/nnUNetTrainer/nnUnetTrainer.py and training/loss for changes and loss implementation.
 
+The original nnU-Net readme is kept below.
+
 # Welcome to the new nnU-Net!
 
 Click [here](https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1) if you were looking for the old one instead.
