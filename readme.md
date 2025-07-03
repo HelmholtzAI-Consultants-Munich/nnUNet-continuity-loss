@@ -1,3 +1,12 @@
+# Continuity-aware loss
+This is a fork of the nnU-Net repository with changes implementing loss functions:
+- clDice,
+- negative centerline loss,
+- topology loss,
+- simplified topology loss.
+
+Refer to training/nnUNetTrainer/nnUnetTrainer.py and training/loss for changes and loss implementation.
+
 # Welcome to the new nnU-Net!
 
 Click [here](https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1) if you were looking for the old one instead.
